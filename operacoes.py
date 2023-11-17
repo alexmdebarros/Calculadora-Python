@@ -16,7 +16,7 @@ def potenciacao (a, b):
     return a ** b
 
 def raiz_quadrada(a):
-    return match.sqrt(a)
+    return math.sqrt(a)
 
 def logaritmo(a):
-    return match.log(a)
+    return math.log(a)
